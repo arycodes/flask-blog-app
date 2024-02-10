@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+
+        .error-container {
+            margin-top: 100px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 10rem;
+            margin-bottom: 20px;
+            color: #dc3545;
+        }
+
+        p {
+            font-size: 1.5rem;
+            color: #6c757d;
+        }
+
+        .btn-back {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 1.2rem;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .btn-back:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 error-container">
+                <h1>404</h1>
+                <p>Oops! Page not found</p>
+                <button class="btn-back" onclick="goToHome()">Go to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function goToHome() {
+            window.location.href = "/";
+        }
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,84 @@
+{
+  "blog_posts": [
+      {
+          "id": 1,
+          "title": "Mastering Flask: A Comprehensive Guide",
+          "author": "Aryan",
+          "date": "2024-02-05",
+          "tags": ["Python", "Web Development", "Flask"],
+          "content_path": "blog_posts/mastering_flask.md"
+      },
+      {
+          "id": 2,
+          "title": "Advanced Flask Techniques: Tips and Tricks",
+          "author": "Aryan",
+          "date": "2024-02-05",
+          "tags": ["Python", "Web Development", "Flask"],
+          "content_path": "blog_posts/advanced_flask_techniques.md"
+      },
+      {
+          "id": 3,
+          "title": "Building Robust Web Applications with Flask and Python",
+          "author": "Aryan",
+          "date": "2024-02-05",
+          "tags": ["Python", "Web Development", "Flask"],
+          "content_path": "blog_posts/building_web_apps_with_flask.md"
+      },
+      {
+          "id": 4,
+          "title": "Deep Dive into Flask Routing and Views",
+          "author": "Aryan",
+          "date": "2024-02-05",
+          "tags": ["Python", "Web Development", "Flask"],
+          "content_path": "blog_posts/deep_dive_flask_routing_views.md"
+      },
+      {
+          "id": 5,
+          "title": "Exploring React Hooks: State Management Made Easy",
+          "author": "Aryan",
+          "date": "2024-02-05",
+          "tags": ["JavaScript", "Frontend", "React"],
+          "content_path": "blog_posts/exploring_react_hooks.md"
+      },
+      {
+          "id": 6,
+          "title": "Optimizing React Components for Performance",
+          "author": "Aryan",
+          "date": "2024-02-05",
+          "tags": ["JavaScript", "Frontend", "React"],
+          "content_path": "blog_posts/optimizing_react_performance.md"
+      },
+      {
+          "id": 7,
+          "title": "Understanding the Virtual DOM in React",
+          "author": "Aryan",
+          "date": "2024-02-05",
+          "tags": ["JavaScript", "Frontend", "React"],
+          "content_path": "blog_posts/understanding_virtual_dom_react.md"
+      },
+      {
+          "id": 8,
+          "title": "Machine Learning Fundamentals for Beginners",
+          "author": "Aryan",
+          "date": "2024-02-05",
+          "tags": ["Machine Learning", "Artificial Intelligence"],
+          "content_path": "blog_posts/ml_fundamentals_beginners.md"
+      },
+      {
+          "id": 9,
+          "title": "Practical Applications of Machine Learning in Daily Life",
+          "author": "Aryan",
+          "date": "2024-02-05",
+          "tags": ["Machine Learning", "Artificial Intelligence"],
+          "content_path": "blog_posts/practical_ml_applications.md"
+      },
+      {
+          "id": 10,
+          "title": "The Future of AI: Trends and Predictions",
+          "author": "Aryan",
+          "date": "2024-02-05",
+          "tags": ["Machine Learning", "Artificial Intelligence"],
+          "content_path": "blog_posts/future_of_ai_trends_predictions.md"
+      }
+  ]
+}
