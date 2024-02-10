@@ -37,7 +37,7 @@ To run the Flask Blog Platform locally on your machine, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/arycodes/flask-blog-app.git
    ```
 
 2. Install dependencies:
